@@ -1,0 +1,30 @@
+[
+    {
+        "db": "dsd",
+        "sql": "SELECT * from dsd"
+    },
+    {
+        "db": "ddt",
+        "sql": "SELECT * from dsd"
+    },
+    {
+        "db": "dsd",
+        "sql": "SELECT * from dsd"
+    },
+    {
+        "db": "ddt",
+        "sql": "SELECT * from dsd"
+    },
+    {
+        "db": "ddk",
+        "sql": "SELECT * from dsd"
+    },
+    {
+        "db": "dsd",
+        "sql": "SELECT * from dsd"
+    },
+    {
+        "db": "ddt",
+        "sql": "SELECT * from dsd"
+    }
+]
